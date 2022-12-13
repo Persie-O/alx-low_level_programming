@@ -9,7 +9,7 @@
  *
  */
 
-int main(void)
+int main(voi)
 {
 	int n;
 
